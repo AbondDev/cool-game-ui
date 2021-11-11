@@ -140,7 +140,7 @@ const App = () => {
     <div className="App">
       <div className="container">
         <div className="header-container">
-          <p className="header gradient-text">⚔️TMNT BATTLE ROYALE⚔️</p>
+          <p className="header gradient-text">⚔️TMNT BATTLE ROYALE(Rinkeby Testnet)⚔️</p>
           <p className="sub-text">
             Team up to protect the Metaverse from Shredder!
           </p>
